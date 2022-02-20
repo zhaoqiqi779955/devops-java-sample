@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'fastcloud-kubeconfig'
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = 'zhaoqiqi'
-        GITHUB_ACCOUNT = 'zhaoqiqi'
+        GITHUB_ACCOUNT = 'zhaoqiqi779955'
         APP_NAME = 'devops-java-sample'
     }
 
